@@ -64,9 +64,6 @@ public class DemoGitHub1Application {
 		mainsddsd1("caominh");
 		mainsddsd("dsdsds");
 	}
-	
-<<<<<<< HEAD
-=======
 
 	@Bean
 	public void Dmosdsss12d() {
@@ -83,10 +80,15 @@ public class DemoGitHub1Application {
 	}
 
 	@Bean
-	public void Dmosdssssd12d() {
+	public void Dmosddssssd12d() {
 		mainsddsd1("caominh");
 		mainsddsd("dsdsds");
 	}
 	
->>>>>>> master
+
+	@Bean
+	public void Dmosddsssdsd12d() {
+		mainsddsd1("caominh");
+		mainsddsd("dsdsds");
+	}
 }
