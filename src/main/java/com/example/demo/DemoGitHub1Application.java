@@ -20,13 +20,18 @@ public class DemoGitHub1Application {
 		return name.equals(name);
 	}
 
+	public boolean  mainsddsd1(String name) {
+		return name.equals(name);
+	}
 	@Bean
 	public void demo1() {
 		mainsd("minh");
+		mainsddsd1("caominh");
 	}
 	
 	@Bean
 	public void demo12() {
+		mainsddsd1("caominh");
 		mainsddsd("dsdsds");
 	}
 	
