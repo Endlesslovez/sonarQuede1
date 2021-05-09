@@ -48,4 +48,11 @@ public class DemoGitHub1Application {
 		mainsddsd("dsdsds");
 	}
 	
+
+	@Bean
+	public void Dmoss12d() {
+		mainsddsd1("caominh");
+		mainsddsd("dsdsds");
+	}
+	
 }
