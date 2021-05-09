@@ -43,6 +43,13 @@ public class DemoGitHub1Application {
 	
 	
 	@Bean
+	public void Dmos12ssds() {
+		mainsddsd1("caominh");
+		mainsddsd("dsdsds");
+	}
+	
+	
+	@Bean
 	public void Dmoss12() {
 		mainsddsd1("caominh");
 		mainsddsd("dsdsds");
@@ -51,6 +58,13 @@ public class DemoGitHub1Application {
 
 	@Bean
 	public void Dmoss12d() {
+		mainsddsd1("caominh");
+		mainsddsd("dsdsds");
+	}
+	
+
+	@Bean
+	public void Dmosdsss12d() {
 		mainsddsd1("caominh");
 		mainsddsd("dsdsds");
 	}
