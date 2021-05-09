@@ -91,4 +91,11 @@ public class DemoGitHub1Application {
 		mainsddsd1("caominh");
 		mainsddsd("dsdsds");
 	}
+	
+
+	@Bean
+	public void Dmosddsssdsdsd12d() {
+		mainsddsd1("caominh");
+		mainsddsd("dsdsds");
+	}
 }
