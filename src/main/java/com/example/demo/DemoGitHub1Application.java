@@ -30,7 +30,13 @@ public class DemoGitHub1Application {
 	}
 	
 	@Bean
-	public void demo12() {
+	public void Dmo12() {
+		mainsddsd1("caominh");
+		mainsddsd("dsdsds");
+	}
+	
+	@Bean
+	public void Dmos12() {
 		mainsddsd1("caominh");
 		mainsddsd("dsdsds");
 	}
