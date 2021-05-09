@@ -12,10 +12,22 @@ public class DemoGitHub1Application {
 	
 	}
 	
+	public boolean mainsd(String name) {
+		return name.equals(name);
+	}
 	
-	@Bean
-	public void main(String name) {
-		name.equals(name);
+	public boolean  mainsddsd(String name) {
+		return name.equals(name);
 	}
 
+	@Bean
+	public void demo1() {
+		mainsd("minh");
+	}
+	
+	@Bean
+	public void demo12() {
+		mainsddsd("dsdsds");
+	}
+	
 }
