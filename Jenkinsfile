@@ -3,7 +3,7 @@ pipeline{
     agent any
     stages{
     stage ('demo1'){
-    step    {
+    steps    {
     echo 'day la demo'    
     }
         
