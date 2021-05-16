@@ -1,15 +1,21 @@
-pipline{
-agent any
-  stages{
-    stage ('demo1'){
-       steps{
-        echo 'o day la de 1'  
-       }
+pipeline {
+    agent any
+
+    stages {
+        stage('Build') {
+            steps {
+                echo 'Building..'
+            }
+        }
+        stage('Test') {
+            steps {
+                echo 'Testing..'
+            }
+        }
+        stage('Deploy') {
+            steps {
+                echo 'Deploying....'
+            }
+        }
     }
-    stage ('demo2'){
-    steps{
-    echo ''  
-    }
-    }
-  }
 }
